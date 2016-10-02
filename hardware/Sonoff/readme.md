@@ -16,9 +16,9 @@ project uses FDTI-adaper for reprogramming ESP8266 chip
 #### UART port 
 ![UART][6]
 #### FTDI wiring
-CLARIFICATION – the square pin is NOT ground – the square hole is 3v3. You should see that the round hole is connected to the flood filling (if you have good eyesight).
+Use FTDI at 3v3 setting – in the original boards,  press the large button –THEN power up FTDI. 
 
-Use FTDI at 3v3 setting – in the original boards,  press the large button –THEN power up FTDI. DO NOT connect mains power while doing this – you will fry.
+**DO NOT connect mains power while doing this – you will fry.**
 
 ![FTDI][7]
 
