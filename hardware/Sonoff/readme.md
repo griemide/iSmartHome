@@ -15,8 +15,8 @@ project uses FDTI-adaper for reprogramming ESP8266 chip
 ![parts][5]
 #### UART port 
 ![UART][6]
-#### FDTI wiring
-![FDTI][7]
+#### FTDI wiring
+![FTDI][7]
 
 <!-- References -->
 [1]: http://tech.scargill.net/ "Scargill's Tech Blog"
