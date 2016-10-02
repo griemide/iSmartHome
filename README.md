@@ -9,6 +9,10 @@
 
 ITEAD Smart Home related projects
 
+|Hardware|Project Description|Link|
+|--------|-------------------|----|
+|Sonoff  |reprogramming      |    |
+
 
 <!-- References -->
 [1]: hardware/images/ITEAD_logo.png  "itead.cc"
