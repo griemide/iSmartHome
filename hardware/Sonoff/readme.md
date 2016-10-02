@@ -10,5 +10,5 @@
 <!-- References -->
 [1]: http://tech.scargill.net/ "Scargill's Tech Blog"
 [2]: http://tech.scargill.net/category/sonoff/ "Scargill's Tech Blog - sonoff"
-[3]: hardware/Sonoff/Sonoff-schematic.pdf "schematics"
+[3]: Sonoff-schematic.pdf "schematics"
 
