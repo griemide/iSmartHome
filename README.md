@@ -1,4 +1,4 @@
-![ITEAD](../../images/ITEAD_logo.png)
+![ITEAD](hardware/images/ITEAD_logo.png)
 
 # iSmartHome
 
