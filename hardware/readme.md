@@ -4,4 +4,5 @@ Homepage ITEAD.cc [ITEAD Smart Home](https://www.itead.cc/smart-home.html)
 
 |Type|Description|Source|Ordered|Received|Qty|Totals
 |----|-----------|------|-------|--------|---|------
-|Sonoff|Aliexpress|t.b.d.|2016-09-10|2016-09-27|2|11.85€
+|Sonoff|Aliexpress|t.b.d.|2016-08-07|2016-08-24|1| 6,23€
+|Sonoff|Aliexpress|t.b.d.|2016-09-07|2016-09-27|2|11,91€
