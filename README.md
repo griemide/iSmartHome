@@ -9,9 +9,12 @@
 
 ITEAD Smart Home related projects
 
-|Hardware|Project Description|Link|
-|--------|-------------------|----|
-|Sonoff  |reprogramming      |    |
+|Hardware|Project Description|Link        |
+|--------|-------------------|------------|
+|Sonoff  |reprogramming      |[Link][L01] | 
+
+<!-- Links -->
+[L01]: tree/master/hardware/Sonoff "Reprogramming"
 
 
 <!-- References -->
