@@ -4,6 +4,7 @@ project uses FDTI-adaper for reprogramming ESP8266 chip
 
 ### used sources
 [Pete Scargill Tech Blog][1] - Category Archives: [sonoff][2]
+[Andre Miller Blog][2a] - Sonoff reprogramming guideline
 
 #### Schematics
 [Schematics][3]
@@ -27,6 +28,7 @@ Use FTDI at 3v3 setting – in the original boards,  press the large button –T
 <!-- References -->
 [1]:  http://tech.scargill.net/ "Scargill's Tech Blog"
 [2]:  http://tech.scargill.net/category/sonoff/ "Scargill's Tech Blog - sonoff"
+[2a]: http://www.andremiller.net/content/programming-an-itead-sonoff-wireless-smart-switch-esp8266 "Programming guideline"
 [3]:  Sonoff-schematic.pdf "schematics"
 [4]:  Sonoff-dimension.png "dimensions"
 [5]:  sonoff-parts-without-433.jpg
