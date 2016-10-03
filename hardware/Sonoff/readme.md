@@ -4,6 +4,7 @@ project uses FDTI-adaper for reprogramming ESP8266 chip
 
 ### used sources
 [Pete Scargill Tech Blog][1] - Category Archives: [sonoff][2]
+
 [Andre Miller Blog][2a] - Sonoff reprogramming guideline
 
 #### Schematics
@@ -19,11 +20,21 @@ project uses FDTI-adaper for reprogramming ESP8266 chip
 #### UART port 
 ![UART][6]
 #### FTDI wiring
-Use FTDI at 3v3 setting – in the original boards,  press the large button –THEN power up FTDI. 
+Use FTDI at 3v3 setting – press the Sonoff-button before power on the FTDI device. 
 
-**DO NOT connect mains power while doing this – you will fry.**
+**DO NOT connect mains power while doing this**
 
 ![FTDI][7]
+
+## The steps to program the device
+
+1. Disconnect the AC power, power it only from the USB to Serial for safety
+2. Hook up the USB to Serial as shown above
+3. Hold down the switch
+4. While holding down the switch, plug the USB to Serial into your PC
+5. Let go of the switch
+6. Use the Arduino IDE to select the correct USB port and upload your program.
+
 
 <!-- References -->
 [1]:  http://tech.scargill.net/ "Scargill's Tech Blog"
