@@ -3,9 +3,8 @@
 project uses FDTI-adaper for reprogramming ESP8266 chip
 
 ### used sources
-[Pete Scargill Tech Blog][1] - Category Archives: [sonoff][2]
-
-[Andre Miller Blog][2a] - Sonoff reprogramming guideline
+1. [Pete Scargill Tech Blog][1] - Category Archives: [sonoff][2]
+2. [Andre Miller Blog][2a] - Sonoff reprogramming guideline
 
 #### Schematics
 [Schematics][3]
