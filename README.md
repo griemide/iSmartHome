@@ -11,11 +11,12 @@ ITEAD Smart Home related projects
 
 |Hardware|Project Description|GoTo        |
 |--------|-------------------|------------|
-|Sonoff  |reprogramming      |[Link][L01] | 
+|Sonoff  |first reprogramming test      |[Link][L01] | 
+|Sonoff  |Sonoff-MQTT-OTA-Arduino     |[Link][L02] | 
 
 <!-- Links -->
 [L01]: hardware/Sonoff/ "Reprogramming"
-
+[L02]: Sonoff-MQTT-OTA-Arduino/ "Reference project customised"
 
 <!-- References -->
 [1]: hardware/images/ITEAD_logo.png  "itead.cc"
