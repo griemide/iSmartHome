@@ -1,7 +1,14 @@
-# Sonoff-MQTT-OTA-Arduino
+# Sonoff-MQTT-OTA-Arduino project
 
+## Wiki
+[Original Wiki](https://github.com/arendst/Sonoff-MQTT-OTA-Arduino/wiki)
 
-## Release Notes
+Main topics:
+1. device button usage
+2. Commands
+3. MQTT features
+
+### Release Notes
 
 ``` C++
 /* 2.0.2 20161006 
