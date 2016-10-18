@@ -1,3 +1,8 @@
+Title:    MultiMarkdown-CheatSheet  
+Date:     2014-01-28  
+Author:   Mark Down, Mac Andi  
+Keywords: PDF, Spickzettel, Deutsch  
+
 <!-- use local icon ![ITEAD][1]  or use remote icon ![ITEAD][2] or use remote url by html systax as folows-->
 
 <a href="https://www.itead.cc/" title="iteadstudio">
